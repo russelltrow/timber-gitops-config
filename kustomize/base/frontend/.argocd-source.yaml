@@ -1,4 +1,4 @@
 kustomize:
-  backend:
+  frontend:
     TIMBER_BACKEND_API_URL:
       - BANANA
