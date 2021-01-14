@@ -5,6 +5,9 @@ resources:
 commonLabels:
   app: timber-frontend
 
+patches:
+  - patch.yaml
+
 vars:
   - name: TIMBER_BACKEND_API_URL
     objref:
